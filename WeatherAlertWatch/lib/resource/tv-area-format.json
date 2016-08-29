@@ -1,0 +1,1560 @@
+﻿{
+    "cities": [
+        {
+            "origin": "臺北市",
+            "format": "臺北"
+
+        },
+        {
+            "origin": "新北市",
+            "format": "新北"
+
+        },
+        {
+            "origin": "桃園市",
+            "format": "桃園"
+        },
+        {
+            "origin": "臺中市",
+            "format": "臺中"
+        },
+        {
+            "origin": "臺南市",
+            "format": "臺南"
+        },
+        {
+            "origin": "高雄市",
+            "format": "高雄"
+        },
+        {
+            "origin": "宜蘭縣",
+            "format": "宜蘭"
+        },
+        {
+            "origin": "新竹縣",
+            "format": "竹縣"
+        },
+        {
+            "origin": "苗栗縣",
+            "format": "苗栗"
+        },
+        {
+            "origin": "彰化縣",
+            "format": "彰化"
+        },
+        {
+            "origin": "南投縣",
+            "format": "南投"
+        },
+        {
+            "origin": "雲林縣",
+            "format": "雲林"
+        },
+        {
+            "origin": "嘉義縣",
+            "format": "嘉縣"
+        },
+        {
+            "origin": "屏東縣",
+            "format": "屏東"
+        },
+        {
+            "origin": "臺東縣",
+            "format": "臺東"
+        },
+        {
+            "origin": "花蓮縣",
+            "format": "花蓮"
+        },
+        {
+            "origin": "澎湖縣",
+            "format": "澎湖"
+        },
+        {
+            "origin": "基隆市",
+            "format": "基隆"
+        },
+        {
+            "origin": "新竹市",
+            "format": "竹市"
+        },
+        {
+            "origin": "嘉義市",
+            "format": "嘉市"
+        },
+        {
+            "origin": "連江縣",
+            "format": "連江"
+        },
+        {
+            "origin": "金門縣",
+            "format": "金門"
+        }
+    ],
+    "townships": [
+        {
+            "origin": "松山區",
+            "format": "松山"
+        },
+        {
+            "origin": "信義區",
+            "format": "信義"
+        },
+        {
+            "origin": "大安區",
+            "format": "大安"
+        },
+        {
+            "origin": "中山區",
+            "format": "中山"
+        },
+        {
+            "origin": "中正區",
+            "format": "中正"
+        },
+        {
+            "origin": "大同區",
+            "format": "大同"
+        },
+        {
+            "origin": "萬華區",
+            "format": "萬華"
+        },
+        {
+            "origin": "文山區",
+            "format": "文山"
+        },
+        {
+            "origin": "南港區",
+            "format": "南港"
+        },
+        {
+            "origin": "內湖區",
+            "format": "內湖"
+        },
+        {
+            "origin": "士林區",
+            "format": "士林"
+        },
+        {
+            "origin": "北投區",
+            "format": "北投"
+        },
+        {
+            "origin": "板橋區",
+            "format": "板橋"
+        },
+        {
+            "origin": "三重區",
+            "format": "三重"
+        },
+        {
+            "origin": "中和區",
+            "format": "中和"
+        },
+        {
+            "origin": "永和區",
+            "format": "永和"
+        },
+        {
+            "origin": "新莊區",
+            "format": "新莊"
+        },
+        {
+            "origin": "新店區",
+            "format": "新店"
+        },
+        {
+            "origin": "土城區",
+            "format": "土城"
+        },
+        {
+            "origin": "蘆洲區",
+            "format": "蘆洲"
+        },
+        {
+            "origin": "汐止區",
+            "format": "汐止"
+        },
+        {
+            "origin": "樹林區",
+            "format": "樹林"
+        },
+        {
+            "origin": "淡水區",
+            "format": "淡水"
+        },
+        {
+            "origin": "鶯歌區",
+            "format": "鶯歌"
+        },
+        {
+            "origin": "三峽區",
+            "format": "三峽"
+        },
+        {
+            "origin": "瑞芳區",
+            "format": "瑞芳"
+        },
+        {
+            "origin": "五股區",
+            "format": "五股"
+        },
+        {
+            "origin": "泰山區",
+            "format": "泰山"
+        },
+        {
+            "origin": "林口區",
+            "format": "林口"
+        },
+        {
+            "origin": "深坑區",
+            "format": "深坑"
+        },
+        {
+            "origin": "石碇區",
+            "format": "石碇"
+        },
+        {
+            "origin": "坪林區",
+            "format": "坪林"
+        },
+        {
+            "origin": "三芝區",
+            "format": "三芝"
+        },
+        {
+            "origin": "石門區",
+            "format": "石門"
+        },
+        {
+            "origin": "八里區",
+            "format": "八里"
+        },
+        {
+            "origin": "平溪區",
+            "format": "平溪"
+        },
+        {
+            "origin": "雙溪區",
+            "format": "雙溪"
+        },
+        {
+            "origin": "貢寮區",
+            "format": "貢寮"
+        },
+        {
+            "origin": "金山區",
+            "format": "金山"
+        },
+        {
+            "origin": "萬里區",
+            "format": "萬里"
+        },
+        {
+            "origin": "烏來區",
+            "format": "烏來"
+        },
+        {
+            "origin": "桃園區",
+            "format": "桃園"
+        },
+        {
+            "origin": "中壢區",
+            "format": "中壢"
+        },
+        {
+            "origin": "大溪區",
+            "format": "大溪"
+        },
+        {
+            "origin": "楊梅區",
+            "format": "楊梅"
+        },
+        {
+            "origin": "蘆竹區",
+            "format": "蘆竹"
+        },
+        {
+            "origin": "大園區",
+            "format": "大園"
+        },
+        {
+            "origin": "龜山區",
+            "format": "龜山"
+        },
+        {
+            "origin": "八德區",
+            "format": "八德"
+        },
+        {
+            "origin": "龍潭區",
+            "format": "龍潭"
+        },
+        {
+            "origin": "平鎮區",
+            "format": "平鎮"
+        },
+        {
+            "origin": "新屋區",
+            "format": "新屋"
+        },
+        {
+            "origin": "觀音區",
+            "format": "觀音"
+        },
+        {
+            "origin": "中區",
+            "format": "中區"
+        },
+        {
+            "origin": "東區",
+            "format": "東區"
+        },
+        {
+            "origin": "南區",
+            "format": "南區"
+        },
+        {
+            "origin": "西區",
+            "format": "西區"
+        },
+        {
+            "origin": "北區",
+            "format": "北區"
+        },
+        {
+            "origin": "西屯區",
+            "format": "西屯"
+        },
+        {
+            "origin": "南屯區",
+            "format": "南屯"
+        },
+        {
+            "origin": "北屯區",
+            "format": "北屯"
+        },
+        {
+            "origin": "豐原區",
+            "format": "豐原"
+        },
+        {
+            "origin": "東勢區",
+            "format": "東勢"
+        },
+        {
+            "origin": "大甲區",
+            "format": "大甲"
+        },
+        {
+            "origin": "清水區",
+            "format": "清水"
+        },
+        {
+            "origin": "沙鹿區",
+            "format": "沙鹿"
+        },
+        {
+            "origin": "梧棲區",
+            "format": "梧棲"
+        },
+        {
+            "origin": "后里區",
+            "format": "后里"
+        },
+        {
+            "origin": "神岡區",
+            "format": "神岡"
+        },
+        {
+            "origin": "潭子區",
+            "format": "潭子"
+        },
+        {
+            "origin": "大雅區",
+            "format": "大雅"
+        },
+        {
+            "origin": "新社區",
+            "format": "新社"
+        },
+        {
+            "origin": "石岡區",
+            "format": "石岡"
+        },
+        {
+            "origin": "外埔區",
+            "format": "外埔"
+        },
+        {
+            "origin": "大安區",
+            "format": "大安"
+        },
+        {
+            "origin": "烏日區",
+            "format": "烏日"
+        },
+        {
+            "origin": "大肚區",
+            "format": "大肚"
+        },
+        {
+            "origin": "龍井區",
+            "format": "龍井"
+        },
+        {
+            "origin": "霧峰區",
+            "format": "霧峰"
+        },
+        {
+            "origin": "太平區",
+            "format": "太平"
+        },
+        {
+            "origin": "大里區",
+            "format": "大里"
+        },
+        {
+            "origin": "和平區",
+            "format": "和平"
+        },
+        {
+            "origin": "新營區",
+            "format": "新營"
+        },
+        {
+            "origin": "鹽水區",
+            "format": "鹽水"
+        },
+        {
+            "origin": "白河區",
+            "format": "白河"
+        },
+        {
+            "origin": "柳營區",
+            "format": "柳營"
+        },
+        {
+            "origin": "後壁區",
+            "format": "後壁"
+        },
+        {
+            "origin": "東山區",
+            "format": "東山"
+        },
+        {
+            "origin": "麻豆區",
+            "format": "麻豆"
+        },
+        {
+            "origin": "下營區",
+            "format": "下營"
+        },
+        {
+            "origin": "六甲區",
+            "format": "六甲"
+        },
+        {
+            "origin": "官田區",
+            "format": "官田"
+        },
+        {
+            "origin": "大內區",
+            "format": "大內"
+        },
+        {
+            "origin": "佳里區",
+            "format": "佳里"
+        },
+        {
+            "origin": "學甲區",
+            "format": "學甲"
+        },
+        {
+            "origin": "西港區",
+            "format": "西港"
+        },
+        {
+            "origin": "七股區",
+            "format": "七股"
+        },
+        {
+            "origin": "將軍區",
+            "format": "將軍"
+        },
+        {
+            "origin": "北門區",
+            "format": "北門"
+        },
+        {
+            "origin": "新化區",
+            "format": "新化"
+        },
+        {
+            "origin": "善化區",
+            "format": "善化"
+        },
+        {
+            "origin": "新市區",
+            "format": "新市"
+        },
+        {
+            "origin": "安定區",
+            "format": "安定"
+        },
+        {
+            "origin": "山上區",
+            "format": "山上"
+        },
+        {
+            "origin": "玉井區",
+            "format": "玉井"
+        },
+        {
+            "origin": "楠西區",
+            "format": "楠西"
+        },
+        {
+            "origin": "南化區",
+            "format": "南化"
+        },
+        {
+            "origin": "左鎮區",
+            "format": "左鎮"
+        },
+        {
+            "origin": "仁德區",
+            "format": "仁德"
+        },
+        {
+            "origin": "歸仁區",
+            "format": "歸仁"
+        },
+        {
+            "origin": "關廟區",
+            "format": "關廟"
+        },
+        {
+            "origin": "龍崎區",
+            "format": "龍崎"
+        },
+        {
+            "origin": "永康區",
+            "format": "永康"
+        },
+        {
+            "origin": "東區",
+            "format": "東區"
+        },
+        {
+            "origin": "南區",
+            "format": "南區"
+        },
+        {
+            "origin": "北區",
+            "format": "北區"
+        },
+        {
+            "origin": "安南區",
+            "format": "安南"
+        },
+        {
+            "origin": "安平區",
+            "format": "安平"
+        },
+        {
+            "origin": "中西區",
+            "format": "中西"
+        },
+        {
+            "origin": "鹽埕區",
+            "format": "鹽埕"
+        },
+        {
+            "origin": "鼓山區",
+            "format": "鼓山"
+        },
+        {
+            "origin": "左營區",
+            "format": "左營"
+        },
+        {
+            "origin": "楠梓區",
+            "format": "楠梓"
+        },
+        {
+            "origin": "三民區",
+            "format": "三民"
+        },
+        {
+            "origin": "新興區",
+            "format": "新興"
+        },
+        {
+            "origin": "前金區",
+            "format": "前金"
+        },
+        {
+            "origin": "苓雅區",
+            "format": "苓雅"
+        },
+        {
+            "origin": "前鎮區",
+            "format": "前鎮"
+        },
+        {
+            "origin": "旗津區",
+            "format": "旗津"
+        },
+        {
+            "origin": "小港區",
+            "format": "小港"
+        },
+        {
+            "origin": "鳳山區",
+            "format": "鳳山"
+        },
+        {
+            "origin": "林園區",
+            "format": "林園"
+        },
+        {
+            "origin": "大寮區",
+            "format": "大寮"
+        },
+        {
+            "origin": "大樹區",
+            "format": "大樹"
+        },
+        {
+            "origin": "大社區",
+            "format": "大社"
+        },
+        {
+            "origin": "仁武區",
+            "format": "仁武"
+        },
+        {
+            "origin": "鳥松區",
+            "format": "鳥松"
+        },
+        {
+            "origin": "岡山區",
+            "format": "岡山"
+        },
+        {
+            "origin": "橋頭區",
+            "format": "橋頭"
+        },
+        {
+            "origin": "燕巢區",
+            "format": "燕巢"
+        },
+        {
+            "origin": "田寮區",
+            "format": "田寮"
+        },
+        {
+            "origin": "阿蓮區",
+            "format": "阿蓮"
+        },
+        {
+            "origin": "路竹區",
+            "format": "路竹"
+        },
+        {
+            "origin": "湖內區",
+            "format": "湖內"
+        },
+        {
+            "origin": "茄萣區",
+            "format": "茄萣"
+        },
+        {
+            "origin": "永安區",
+            "format": "永安"
+        },
+        {
+            "origin": "彌陀區",
+            "format": "彌陀"
+        },
+        {
+            "origin": "梓官區",
+            "format": "梓官"
+        },
+        {
+            "origin": "旗山區",
+            "format": "旗山"
+        },
+        {
+            "origin": "美濃區",
+            "format": "美濃"
+        },
+        {
+            "origin": "六龜區",
+            "format": "六龜"
+        },
+        {
+            "origin": "甲仙區",
+            "format": "甲仙"
+        },
+        {
+            "origin": "杉林區",
+            "format": "杉林"
+        },
+        {
+            "origin": "內門區",
+            "format": "內門"
+        },
+        {
+            "origin": "茂林區",
+            "format": "茂林"
+        },
+        {
+            "origin": "桃源區",
+            "format": "桃源"
+        },
+        {
+            "origin": "那瑪夏區",
+            "format": "那瑪夏"
+        },
+        {
+            "origin": "宜蘭市",
+            "format": "宜蘭"
+        },
+        {
+            "origin": "羅東鎮",
+            "format": "羅東"
+        },
+        {
+            "origin": "蘇澳鎮",
+            "format": "蘇澳"
+        },
+        {
+            "origin": "頭城鎮",
+            "format": "頭城"
+        },
+        {
+            "origin": "礁溪鄉",
+            "format": "礁溪"
+        },
+        {
+            "origin": "壯圍鄉",
+            "format": "壯圍"
+        },
+        {
+            "origin": "員山鄉",
+            "format": "員山"
+        },
+        {
+            "origin": "冬山鄉",
+            "format": "冬山"
+        },
+        {
+            "origin": "五結鄉",
+            "format": "五結"
+        },
+        {
+            "origin": "三星鄉",
+            "format": "三星"
+        },
+        {
+            "origin": "大同鄉",
+            "format": "大同"
+        },
+        {
+            "origin": "南澳鄉",
+            "format": "南澳"
+        },
+        {
+            "origin": "竹北市",
+            "format": "竹北"
+        },
+        {
+            "origin": "竹東鎮",
+            "format": "竹東"
+        },
+        {
+            "origin": "新埔鎮",
+            "format": "新埔"
+        },
+        {
+            "origin": "湖口鄉",
+            "format": "湖口"
+        },
+        {
+            "origin": "新豐鄉",
+            "format": "新豐"
+        },
+        {
+            "origin": "芎林鄉",
+            "format": "芎林"
+        },
+        {
+            "origin": "橫山鄉",
+            "format": "橫山"
+        },
+        {
+            "origin": "北埔鄉",
+            "format": "北埔"
+        },
+        {
+            "origin": "寶山鄉",
+            "format": "寶山"
+        },
+        {
+            "origin": "關西鎮",
+            "format": "關西"
+        },
+        {
+            "origin": "峨眉鄉",
+            "format": "峨眉"
+        },
+        {
+            "origin": "尖石鄉",
+            "format": "尖石"
+        },
+        {
+            "origin": "五峰鄉",
+            "format": "五峰"
+        },
+        {
+            "origin": "苑裡鎮",
+            "format": "苑裡"
+        },
+        {
+            "origin": "通霄鎮",
+            "format": "通霄"
+        },
+        {
+            "origin": "竹南鎮",
+            "format": "竹南"
+        },
+        {
+            "origin": "頭份鎮",
+            "format": "頭份"
+        },
+        {
+            "origin": "後龍鎮",
+            "format": "後龍"
+        },
+        {
+            "origin": "卓蘭鎮",
+            "format": "卓蘭"
+        },
+        {
+            "origin": "大湖鄉",
+            "format": "大湖"
+        },
+        {
+            "origin": "公館鄉",
+            "format": "公館"
+        },
+        {
+            "origin": "銅鑼鄉",
+            "format": "銅鑼"
+        },
+        {
+            "origin": "南庄鄉",
+            "format": "南庄"
+        },
+        {
+            "origin": "頭屋鄉",
+            "format": "頭屋"
+        },
+        {
+            "origin": "三義鄉",
+            "format": "三義"
+        },
+        {
+            "origin": "西湖鄉",
+            "format": "西湖"
+        },
+        {
+            "origin": "造橋鄉",
+            "format": "造橋"
+        },
+        {
+            "origin": "三灣鄉",
+            "format": "三灣"
+        },
+        {
+            "origin": "獅潭鄉",
+            "format": "獅潭"
+        },
+        {
+            "origin": "泰安鄉",
+            "format": "泰安"
+        },
+        {
+            "origin": "彰化市",
+            "format": "彰化"
+        },
+        {
+            "origin": "鹿港鎮",
+            "format": "鹿港"
+        },
+        {
+            "origin": "和美鎮",
+            "format": "和美"
+        },
+        {
+            "origin": "線西鄉",
+            "format": "線西"
+        },
+        {
+            "origin": "伸港鄉",
+            "format": "伸港"
+        },
+        {
+            "origin": "福興鄉",
+            "format": "福興"
+        },
+        {
+            "origin": "秀水鄉",
+            "format": "秀水"
+        },
+        {
+            "origin": "花壇鄉",
+            "format": "花壇"
+        },
+        {
+            "origin": "芬園鄉",
+            "format": "芬園"
+        },
+        {
+            "origin": "員林市",
+            "format": "員林"
+        },
+        {
+            "origin": "溪湖鎮",
+            "format": "溪湖"
+        },
+        {
+            "origin": "田中鎮",
+            "format": "田中"
+        },
+        {
+            "origin": "大村鄉",
+            "format": "大村"
+        },
+        {
+            "origin": "埔鹽鄉",
+            "format": "埔鹽"
+        },
+        {
+            "origin": "埔心鄉",
+            "format": "埔心"
+        },
+        {
+            "origin": "永靖鄉",
+            "format": "永靖"
+        },
+        {
+            "origin": "社頭鄉",
+            "format": "社頭"
+        },
+        {
+            "origin": "二水鄉",
+            "format": "二水"
+        },
+        {
+            "origin": "北斗鎮",
+            "format": "北斗"
+        },
+        {
+            "origin": "二林鎮",
+            "format": "二林"
+        },
+        {
+            "origin": "田尾鄉",
+            "format": "田尾"
+        },
+        {
+            "origin": "埤頭鄉",
+            "format": "埤頭"
+        },
+        {
+            "origin": "芳苑鄉",
+            "format": "芳苑"
+        },
+        {
+            "origin": "大城鄉",
+            "format": "大城"
+        },
+        {
+            "origin": "竹塘鄉",
+            "format": "竹塘"
+        },
+        {
+            "origin": "溪州鄉",
+            "format": "溪州"
+        },
+        {
+            "origin": "南投市",
+            "format": "南投"
+        },
+        {
+            "origin": "埔里鎮",
+            "format": "埔里"
+        },
+        {
+            "origin": "草屯鎮",
+            "format": "草屯"
+        },
+        {
+            "origin": "竹山鎮",
+            "format": "竹山"
+        },
+        {
+            "origin": "集集鎮",
+            "format": "集集"
+        },
+        {
+            "origin": "名間鄉",
+            "format": "名間"
+        },
+        {
+            "origin": "鹿谷鄉",
+            "format": "鹿谷"
+        },
+        {
+            "origin": "中寮鄉",
+            "format": "中寮"
+        },
+        {
+            "origin": "魚池鄉",
+            "format": "魚池"
+        },
+        {
+            "origin": "國姓鄉",
+            "format": "國姓"
+        },
+        {
+            "origin": "水里鄉",
+            "format": "水里"
+        },
+        {
+            "origin": "信義鄉",
+            "format": "信義"
+        },
+        {
+            "origin": "仁愛鄉",
+            "format": "仁愛"
+        },
+        {
+            "origin": "斗六市",
+            "format": "斗六"
+        },
+        {
+            "origin": "斗南鎮",
+            "format": "斗南"
+        },
+        {
+            "origin": "虎尾鎮",
+            "format": "虎尾"
+        },
+        {
+            "origin": "西螺鎮",
+            "format": "西螺"
+        },
+        {
+            "origin": "土庫鎮",
+            "format": "土庫"
+        },
+        {
+            "origin": "北港鎮",
+            "format": "北港"
+        },
+        {
+            "origin": "古坑鄉",
+            "format": "古坑"
+        },
+        {
+            "origin": "大埤鄉",
+            "format": "大埤"
+        },
+        {
+            "origin": "莿桐鄉",
+            "format": "莿桐"
+        },
+        {
+            "origin": "林內鄉",
+            "format": "林內"
+        },
+        {
+            "origin": "二崙鄉",
+            "format": "二崙"
+        },
+        {
+            "origin": "崙背鄉",
+            "format": "崙背"
+        },
+        {
+            "origin": "麥寮鄉",
+            "format": "麥寮"
+        },
+        {
+            "origin": "東勢鄉",
+            "format": "東勢"
+        },
+        {
+            "origin": "褒忠鄉",
+            "format": "褒忠"
+        },
+        {
+            "origin": "臺西鄉",
+            "format": "臺西"
+        },
+        {
+            "origin": "元長鄉",
+            "format": "元長"
+        },
+        {
+            "origin": "四湖鄉",
+            "format": "四湖"
+        },
+        {
+            "origin": "口湖鄉",
+            "format": "口湖"
+        },
+        {
+            "origin": "水林鄉",
+            "format": "水林"
+        },
+        {
+            "origin": "太保市",
+            "format": "太保"
+        },
+        {
+            "origin": "朴子市",
+            "format": "朴子"
+        },
+        {
+            "origin": "布袋鎮",
+            "format": "布袋"
+        },
+        {
+            "origin": "大林鎮",
+            "format": "大林"
+        },
+        {
+            "origin": "民雄鄉",
+            "format": "民雄"
+        },
+        {
+            "origin": "溪口鄉",
+            "format": "溪口"
+        },
+        {
+            "origin": "新港鄉",
+            "format": "新港"
+        },
+        {
+            "origin": "六腳鄉",
+            "format": "六腳"
+        },
+        {
+            "origin": "東石鄉",
+            "format": "東石"
+        },
+        {
+            "origin": "義竹鄉",
+            "format": "義竹"
+        },
+        {
+            "origin": "鹿草鄉",
+            "format": "鹿草"
+        },
+        {
+            "origin": "水上鄉",
+            "format": "水上"
+        },
+        {
+            "origin": "中埔鄉",
+            "format": "中埔"
+        },
+        {
+            "origin": "竹崎鄉",
+            "format": "竹崎"
+        },
+        {
+            "origin": "梅山鄉",
+            "format": "梅山"
+        },
+        {
+            "origin": "番路鄉",
+            "format": "番路"
+        },
+        {
+            "origin": "大埔鄉",
+            "format": "大埔"
+        },
+        {
+            "origin": "阿里山鄉",
+            "format": "阿里山"
+        },
+        {
+            "origin": "屏東市",
+            "format": "屏東"
+        },
+        {
+            "origin": "潮州鎮",
+            "format": "潮州"
+        },
+        {
+            "origin": "東港鎮",
+            "format": "東港"
+        },
+        {
+            "origin": "恆春鎮",
+            "format": "恆春"
+        },
+        {
+            "origin": "萬丹鄉",
+            "format": "萬丹"
+        },
+        {
+            "origin": "長治鄉",
+            "format": "長治"
+        },
+        {
+            "origin": "麟洛鄉",
+            "format": "麟洛"
+        },
+        {
+            "origin": "九如鄉",
+            "format": "九如"
+        },
+        {
+            "origin": "里港鄉",
+            "format": "里港"
+        },
+        {
+            "origin": "鹽埔鄉",
+            "format": "鹽埔"
+        },
+        {
+            "origin": "高樹鄉",
+            "format": "高樹"
+        },
+        {
+            "origin": "萬巒鄉",
+            "format": "萬巒"
+        },
+        {
+            "origin": "內埔鄉",
+            "format": "內埔"
+        },
+        {
+            "origin": "竹田鄉",
+            "format": "竹田"
+        },
+        {
+            "origin": "新埤鄉",
+            "format": "新埤"
+        },
+        {
+            "origin": "枋寮鄉",
+            "format": "枋寮"
+        },
+        {
+            "origin": "新園鄉",
+            "format": "新園"
+        },
+        {
+            "origin": "崁頂鄉",
+            "format": "崁頂"
+        },
+        {
+            "origin": "林邊鄉",
+            "format": "林邊"
+        },
+        {
+            "origin": "南州鄉",
+            "format": "南州"
+        },
+        {
+            "origin": "佳冬鄉",
+            "format": "佳冬"
+        },
+        {
+            "origin": "琉球鄉",
+            "format": "琉球"
+        },
+        {
+            "origin": "車城鄉",
+            "format": "車城"
+        },
+        {
+            "origin": "滿州鄉",
+            "format": "滿州"
+        },
+        {
+            "origin": "枋山鄉",
+            "format": "枋山"
+        },
+        {
+            "origin": "三地門鄉",
+            "format": "三地門"
+        },
+        {
+            "origin": "霧臺鄉",
+            "format": "霧臺"
+        },
+        {
+            "origin": "瑪家鄉",
+            "format": "瑪家"
+        },
+        {
+            "origin": "泰武鄉",
+            "format": "泰武"
+        },
+        {
+            "origin": "來義鄉",
+            "format": "來義"
+        },
+        {
+            "origin": "春日鄉",
+            "format": "春日"
+        },
+        {
+            "origin": "獅子鄉",
+            "format": "獅子"
+        },
+        {
+            "origin": "牡丹鄉",
+            "format": "牡丹"
+        },
+        {
+            "origin": "臺東市",
+            "format": "臺東"
+        },
+        {
+            "origin": "成功鎮",
+            "format": "成功"
+        },
+        {
+            "origin": "關山鎮",
+            "format": "關山"
+        },
+        {
+            "origin": "卑南鄉",
+            "format": "卑南"
+        },
+        {
+            "origin": "鹿野鄉",
+            "format": "鹿野"
+        },
+        {
+            "origin": "池上鄉",
+            "format": "池上"
+        },
+        {
+            "origin": "東河鄉",
+            "format": "東河"
+        },
+        {
+            "origin": "長濱鄉",
+            "format": "長濱"
+        },
+        {
+            "origin": "太麻里鄉",
+            "format": "太麻里"
+        },
+        {
+            "origin": "大武鄉",
+            "format": "大武"
+        },
+        {
+            "origin": "綠島鄉",
+            "format": "綠島"
+        },
+        {
+            "origin": "海端鄉",
+            "format": "海端"
+        },
+        {
+            "origin": "延平鄉",
+            "format": "延平"
+        },
+        {
+            "origin": "金峰鄉",
+            "format": "金峰"
+        },
+        {
+            "origin": "達仁鄉",
+            "format": "達仁"
+        },
+        {
+            "origin": "蘭嶼鄉",
+            "format": "蘭嶼"
+        },
+        {
+            "origin": "花蓮市",
+            "format": "花蓮"
+        },
+        {
+            "origin": "鳳林鎮",
+            "format": "鳳林"
+        },
+        {
+            "origin": "玉里鎮",
+            "format": "玉里"
+        },
+        {
+            "origin": "新城鄉",
+            "format": "新城"
+        },
+        {
+            "origin": "吉安鄉",
+            "format": "吉安"
+        },
+        {
+            "origin": "壽豐鄉",
+            "format": "壽豐"
+        },
+        {
+            "origin": "光復鄉",
+            "format": "光復"
+        },
+        {
+            "origin": "豐濱鄉",
+            "format": "豐濱"
+        },
+        {
+            "origin": "瑞穗鄉",
+            "format": "瑞穗"
+        },
+        {
+            "origin": "富里鄉",
+            "format": "富里"
+        },
+        {
+            "origin": "秀林鄉",
+            "format": "秀林"
+        },
+        {
+            "origin": "萬榮鄉",
+            "format": "萬榮"
+        },
+        {
+            "origin": "卓溪鄉",
+            "format": "卓溪"
+        },
+        {
+            "origin": "馬公市",
+            "format": "馬公"
+        },
+        {
+            "origin": "湖西鄉",
+            "format": "湖西"
+        },
+        {
+            "origin": "白沙鄉",
+            "format": "白沙"
+        },
+        {
+            "origin": "西嶼鄉",
+            "format": "西嶼"
+        },
+        {
+            "origin": "望安鄉",
+            "format": "望安"
+        },
+        {
+            "origin": "七美鄉",
+            "format": "七美"
+        },
+        {
+            "origin": "中正區",
+            "format": "中正"
+        },
+        {
+            "origin": "七堵區",
+            "format": "七堵"
+        },
+        {
+            "origin": "暖暖區",
+            "format": "暖暖"
+        },
+        {
+            "origin": "仁愛區",
+            "format": "仁愛"
+        },
+        {
+            "origin": "中山區",
+            "format": "中山"
+        },
+        {
+            "origin": "安樂區",
+            "format": "安樂"
+        },
+        {
+            "origin": "信義區",
+            "format": "信義"
+        },
+        {
+            "origin": "東區",
+            "format": "東區"
+        },
+        {
+            "origin": "北區",
+            "format": "北區"
+        },
+        {
+            "origin": "香山區",
+            "format": "香山"
+        },
+        {
+            "origin": "東區",
+            "format": "東區"
+        },
+        {
+            "origin": "西區",
+            "format": "西區"
+        },
+        {
+            "origin": "南竿鄉",
+            "format": "南竿"
+        },
+        {
+            "origin": "北竿鄉",
+            "format": "北竿"
+        },
+        {
+            "origin": "莒光鄉",
+            "format": "莒光"
+        },
+        {
+            "origin": "東引鄉",
+            "format": "東引"
+        },
+        {
+            "origin": "金城鎮",
+            "format": "金城"
+        },
+        {
+            "origin": "金湖鎮",
+            "format": "金湖"
+        },
+        {
+            "origin": "金沙鎮",
+            "format": "金沙"
+        },
+        {
+            "origin": "金寧鄉",
+            "format": "金寧"
+        },
+        {
+            "origin": "烈嶼鄉",
+            "format": "烈嶼"
+        },
+        {
+            "origin": "烏坵鄉",
+            "format": "烏坵"
+        }
+    ]
+}

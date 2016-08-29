@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "async": "registry:dt/async#2.0.1+20160804113311",
+    "node": "registry:dt/node#6.0.0+20160815222444",
+    "nodemailer": "registry:dt/nodemailer#1.3.2+20160811111312"
+  }
+}
